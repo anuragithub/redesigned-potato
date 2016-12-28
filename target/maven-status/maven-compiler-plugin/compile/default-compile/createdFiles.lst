@@ -1,0 +1,14 @@
+com/apex/Location.class
+AdInfo.class
+Aggregator/Aggregator.class
+Aggregator/Generator_v2.class
+Aggregator/AggregatorById.class
+com/apex/RandomValueGenerator.class
+com/apex/Advertiser.class
+Aggregator/AggregatorSet.class
+com/apex/Publisher.class
+Aggregator/Pair.class
+Aggregator/Generator.class
+Aggregator/IdFactory.class
+com/apex/RandomEnumGenerator.class
+com/apex/AdInfo.class
